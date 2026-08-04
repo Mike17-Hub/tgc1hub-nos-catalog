@@ -1,0 +1,8 @@
+﻿{
+  "name": "tgc1hub-nos-catalog",
+  "private": true,
+  "scripts": {
+    "dev": "npx wrangler pages dev . --compatibility-date=2026-08-04",
+    "deploy": "npx wrangler pages deploy . --project-name=tgc1hub-nos-catalog --compatibility-date=2026-08-04"
+  }
+}
