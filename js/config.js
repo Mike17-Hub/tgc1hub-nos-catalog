@@ -52,7 +52,7 @@ const CONFIG = {
     fbRating: '5.0',
     tag1: 'Rider + Resibo + 5 Star',
     tag2: 'NOS • Never Installed',
-    description: "Over 1,800 Genuine NOS & Pull-Out Auto Parts • Sourced from Nationwide Company Store Clearance • New Old Stock - When It's Gone, It's Gone Forever" 
+    description: "Over 1,000+ Genuine NOS & Pull-Out Auto Parts • Sourced from Nationwide Company Store Clearance • New Old Stock - When It's Gone, It's Gone Forever" 
   },
 
   // ---- "Why us" section ----
